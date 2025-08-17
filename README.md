@@ -1,12 +1,12 @@
 # Collaborative-learning-Platform
 
-# 📚 Collaborative Learning Platform
+# Collaborative Learning Platform
 
 A full-stack web application designed to help users form study groups, share resources, and collaborate in real-time via chat and video conferencing. Ideal for students and professionals looking to learn new skills together.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 👤 **User Registration & Profile Creation**
 - 👥 **Study Group Creation & Management**
@@ -35,7 +35,7 @@ A full-stack web application designed to help users form study groups, share res
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```bash
 collab-learning-platform/
